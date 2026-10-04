@@ -38,3 +38,6 @@ In this project, I analyzed employee data to gain meaningful insights into emplo
 - hr-analytics-dashboard.png
 - README.md
 
+  ## Dashboard preview
+
+<img width="1213" height="682" alt="image" src="https://github.com/user-attachments/assets/db64a53b-de55-4615-a719-fb790dd18173" />
